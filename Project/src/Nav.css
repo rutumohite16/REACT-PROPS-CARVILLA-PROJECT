@@ -1,0 +1,28 @@
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+   
+}
+ul li{
+    list-style-type: none;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.nav-section{
+    position: fixed;
+    top: 0px;
+    background-color: black;
+}
+ul li a:hover{
+    color:blue;
+}
+.nav-btn {
+    height: 40px;
+    width: 50px;
+    border: 1px solid black;
+}

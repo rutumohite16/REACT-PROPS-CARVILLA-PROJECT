@@ -1,0 +1,18 @@
+.section1{
+    height: 900px;
+    width: 100%;
+    background-image: url(assets/images/welcome-hero/welcome-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    margin-top: -160px;
+    
+}
+.start{
+    margin-top: 420px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+}

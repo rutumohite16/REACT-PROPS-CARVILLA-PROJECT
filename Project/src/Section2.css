@@ -1,0 +1,25 @@
+.items{
+    height: 350px;
+    width: 100px;
+    border: 1px solid #818998;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+.items:hover{
+  background-color: blue;
+  color: white;
+}
+
+.icon{
+ font-size: 50px;
+ margin-top: 40px;
+}
+.section2{
+   margin-top: 90px;
+   margin-bottom: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

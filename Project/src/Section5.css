@@ -1,0 +1,27 @@
+.section5{
+    background-color: #f8f9fb;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.client{
+    border: 1px solid black;
+    height: 400px;
+    font-size: large;
+}
+.client:hover{
+ background-color: blue;
+ color: white;
+}
+
+.what{
+    margin-top: 150px;
+
+}
+.what2{
+    margin-bottom: 150px;
+}
+.name{
+    font-weight: 500;
+}
